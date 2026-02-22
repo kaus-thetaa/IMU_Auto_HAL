@@ -1,4 +1,4 @@
-# Bare-Metal Avionics IMU Auto-Detect HAL
+# IMU Auto-Detect HAL
 
 ## Overview
 This repository contains a custom, bare-metal C++ Hardware Abstraction Layer (HAL) built for flight computer avionics. It is designed to interface directly with I2C Inertial Measurement Units (IMUs), specifically the **MPU6050** and the **SparkFun ICM-20948**, using an Arduino MKR (32-bit ARM Cortex-M0+).
